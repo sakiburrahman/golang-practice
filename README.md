@@ -19,4 +19,5 @@ go run main.go
 8. A function can return multiple things
 9. Using pointer we can change a value by passing a reference
 10. When we need to reference of a variable use & sign before variable. For example: &variable
-11. When we need to refer to a actual pointer use * sign in front of the variable type. For example: value *string   
+11. When we need to refer to a actual pointer use * sign in front of the variable type. For example: value *string
+12. If a variable of function starts with capital letter then it can be accessed outside of the file. It is like public in Java.   
